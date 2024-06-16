@@ -1,0 +1,17 @@
+numpy
+soundfile
+pydub
+json
+re
+argparse
+xml.etree.ElementTree
+os
+glob
+logging
+dataclasses
+functools
+torch
+datasets
+transformers
+evaluate
+gradio
